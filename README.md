@@ -1,8 +1,8 @@
 # README — Employee Management API (English)
 
-**Version:** v0.1
-**Date:** 2025-10-25
-**Audience:** Internal developers (backend, frontend, QA, DevOps)
+**Version:** v0.1  
+**Date:** 2025-10-25  
+**Audience:** Internal developers (backend, frontend, QA, DevOps)  
 **Purpose:** This README consolidates RESTful API design guidelines, API specification conventions, and documentation standards for the Employee Management System. It is a single source of truth for how to design, implement, document, test, and maintain APIs in this project.
 
 ---
